@@ -14,6 +14,7 @@ To analyze hospital inpatient charges for common DRGs using CMS Medicare 2015 da
 | File | Description |
 |------|-------------|
 | `CMS_Medicare.pbix` | Final Power BI dashboard |
+| `inpatient_charges_queries.sql` | SQL queries used in BigQuery |
 | `inpatient_charges_2015_export.csv` | Cleaned dataset exported from BigQuery |
 | `dashboard.png` | Screenshot of the dashboard |
 
